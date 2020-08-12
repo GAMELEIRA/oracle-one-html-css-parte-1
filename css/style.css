@@ -1,0 +1,49 @@
+#banner {
+    /*ATRIBUTO QUE DEFINI A LARGURA*/
+    width: 100%;
+}
+
+.principal {
+    /*ATRIBUTO QUE ALTERA A COR DE FUNDO PARA CINZA*/
+    background: gray;
+    /*ATRIBUTO QUE DEFINE O ESPACAMENTO INTERNO DO OBJETO EM RELACAO AO SEU A SUA TAG MAE*/
+    padding: 30px;
+    /*A PROPRIEDADE TEXT-ALIGN CENTRALIZA O CONTEUDO AO CENTRO;*/
+    text-align: center;
+}
+
+.titulo-principal {
+    /*ATRIBUTO QUE DEFINE O ESPACAMENTO INTERNO AO LADO ESQUERDO DO OBJETO EM RELACAO AO SEU A SUA TAG MAE*/
+    padding-left: 50px;
+}
+
+#missao {
+    /*A PROPRIEDADE FONT-SIZE ALTERA O TAMANHO DO CONTEUDO*/
+    font-size: 20px;
+}
+
+em strong {
+    /*A PROPRIEDADE COLOR ALTERA A COR DO CONTEUDO*/
+    color: red;
+}
+
+.itens {
+    /*A PROPRIEDADE FONT-STYLE ALTERA A FONTE DO CONTEUDO*/
+    font-style: italic;
+    /*A PROPRIEDADE DISPLAY ALTERA O COMPORTAMENTO DE BLOQUEAR O CONTEUDO */
+    display: inline-block;
+    /*A PROPRIEDADE DISPLAY ALTERA O COMPORTAMENTO DE SUBIR O CONTEUDO */
+    vertical-align: top;
+    width: 20%;
+    /*A PROPRIEDADE DISPLAY ALTERA O ESPACAMENTO PARA A DIREITA*/
+    margin-right: 15%;
+    padding: 20px;
+}
+
+.beneficios {
+    background: white;
+}
+
+.img-beneficios {
+    width: 50%;
+}
